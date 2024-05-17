@@ -14,7 +14,7 @@ y creamos un archivo que nos permitía mostrar dichos videos.
 en la pantalla, haciendo un loop con la función listar video.
 * Además, creamos nuevos videos. Agregamos nuevos elementos a este archivo db.json que se agregaron al final del archivo a través del archivo crearVideo, donde importamos el archivo conexionAPI. 
 Este archivo se encarga de todas las solicitudes con el servidor externo y cada uno de estos archivos va a estar relacionados con la función que vamos a ejecutar dentro de la aplicación.
-* Por último, creamos el archivo filtrarVideo que nos permitía obtener los elementos en la barra de búsqueda y realizar una búsqueda dentro del archivo db.json. Si encontraba algún elemento, 
+* Por último, creamos el archivo buscarVideo que nos permitía obtener los elementos en la barra de búsqueda y realizar una búsqueda dentro del archivo db.json. Si encontraba algún elemento, 
 eliminaba todos los elementos anteriores y mostraba estos nuevos elementos. En caso de que no encontrara ningún elemento, enviaba un mensaje de error, así como lo hacíamos cuando intentábamos crear un video, 
 enviando un mensaje de error a través de un mensaje de alerta.
 
