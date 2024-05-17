@@ -23,8 +23,8 @@ enviando un mensaje de error a través de un mensaje de alerta.
 
 <hr>
 
-<p align="center"> <img src="img/encabezado/Logo.png"> </p>
-<p align="center">Página inicial y formulário de registro de vídeos de AluraPlay, una plataforma de intercambio de vídeos.</p>
+<p align="center"> <img width="400" heigth="100" src="img/encabezado/Logo.png"> </p>
+<p align="center">Página inicial y formulario de registro de vídeos de AluraPlay, una plataforma de intercambio de vídeos.</p>
 
 <br />
   ❤️ ESTADO: Finalizado
