@@ -19,7 +19,8 @@ eliminaba todos los elementos anteriores y mostraba estos nuevos elementos. En c
 enviando un mensaje de error a través de un mensaje de alerta.
 
 
-<p align="center"> <img width="800" heigth="400" src="img/encabezado/screenshoot_d.PNG" alt="Javascript: creando requisiciones"> </p>
+<p align="center"> <img width="700" heigth="400" src="img/encabezado/screenshoot_d.PNG" alt="Javascript: creando requisiciones"> </p>
+![Screenshot de la pantalla inicial de AluraPlay]("img/encabezado/screenshoot_d.PNG")
 
 <hr>
 
