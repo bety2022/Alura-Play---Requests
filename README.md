@@ -33,7 +33,7 @@ enviando un mensaje de error a través de un mensaje de alerta.
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="https://bety2022.github.io/SpaceApp/" >
+    <a href="http://127.0.0.1:5500/" >
       🔗 Servidor Creado en json-server es local y solo se ejecuta en nuestra computadora, para ello debes descargarlo y trabajarlo en tu pc.
     </a>
 </div>
