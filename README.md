@@ -30,6 +30,14 @@ enviando un mensaje de error a través de un mensaje de alerta.
   ❤️ ESTADO: Finalizado
 <br />
 
+## 🔎 Deploy
+<div align="center">
+  <h3>
+    <a href="https://bety2022.github.io/SpaceApp/" >
+      🔗 Servidor Creado en json-server es local y solo se ejecuta en nuestra computadora, para ello debes descargarlo y trabajarlo en tu pc.
+    </a>
+</div>
+
 ## 🛠️ Herramientas implementadas 
 
   - NodeJS
