@@ -1,3 +1,9 @@
+<h1 align="center"> PROYECTO Alura-Play - Creando Solicitudes </h1>
+
+<h1 align="center"> Front End G6 - ONE </h1>
+ 
+# Curso JavaScript: creando solicitudes
+
 <p align="center"> <img src="https://github.com/josevflores911/JavaScript/blob/main/img/encabezado/screenshoot_d.PNG" alt="Javascript: creando requisiciones"> </p>
 
 <hr>
