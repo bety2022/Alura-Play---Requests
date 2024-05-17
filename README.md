@@ -23,7 +23,7 @@ enviando un mensaje de error a través de un mensaje de alerta.
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo de Alura"> </p>
+<p align="center"> <img src="img/encabezado/Logo.png"> </p>
 <p align="center">Página inicial y formulário de registro de vídeos de AluraPlay, una plataforma de intercambio de vídeos.</p>
 
 <br />
